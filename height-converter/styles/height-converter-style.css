@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+#title{
+    display: flex;
+    justify-content: center;
+}
+#feet-outer-div{
+    display: flex;
+    justify-content: center;
+}
+#inches-outer-div{
+    display: flex;
+    justify-content: center;
+}
+#feet-inner-div{
+    padding-right: 20px;
+}
+#inches-inner-div{
+    padding-right: 20px;
+}
+#button-container{
+    display: flex;
+    justify-content: center;
+}
+#convert-button{
+    color: black;
+    background-color: red;
+}
+.white-text{
+    color: white;
+}
+#result-div{
+    display: flex;
+    justify-content: center;
+}
