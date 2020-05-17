@@ -1,4 +1,5 @@
 # JavascriptProjects
+A list of my Javascript projects.
 ## Running The Apps
 Download the files on your computer and run it using a local server or visit the websites to view them!
 ## Links To All App Websites
