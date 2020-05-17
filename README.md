@@ -1,5 +1,11 @@
 # JavascriptProjects
-A collection of Javascipt applications I have been working on.
+## Running The Apps
+Download the files on your computer and run it using a local server or visit the websites to view them!
+## Links To All App Websites
+- [Link to Height Converter App Website](https://lamke-feet-to-cm.netlify.app/)
+- [Link to Hangman App Website](https://lamke-hangman.netlify.app/)
+- [Link to Notes App Website](https://lamke-notes.netlify.app/)
+- [Link to Todo App Website](https://lamke-todo.netlify.app/)
 ## Height Converter App
 This app will take in a height in feet and inches and convert it to centimeters. The inputs will not accept anything other than a number.
 ## Hangman App
